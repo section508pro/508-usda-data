@@ -1,24 +1,24 @@
 [
   {
     "path": "/",
-    "score": 0.9,
-    "performance": 0.92,
+    "score": 0.89,
+    "performance": 0.86,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/about",
-    "score": 0.81,
-    "performance": 0.73,
+    "score": 0.82,
+    "performance": 0.77,
     "accessibility": 0.82,
     "best-practices": 0.92,
     "seo": 0.75
   },
   {
     "path": "/about/agency-overview",
-    "score": 0.92,
-    "performance": 0.89,
+    "score": 0.91,
+    "performance": 0.85,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.92
@@ -26,15 +26,15 @@
   {
     "path": "/about/agency-overview/disability-accessibility",
     "score": 0.94,
-    "performance": 0.99,
+    "performance": 0.97,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/about/agency-overview/disability-and-accessibility",
-    "score": 0.94,
-    "performance": 0.97,
+    "score": 0.93,
+    "performance": 0.95,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
@@ -42,31 +42,31 @@
   {
     "path": "/about/agency-overview/federal-register-notices",
     "score": 0.91,
-    "performance": 0.88,
+    "performance": 0.85,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/about/agency-overview/foia-and-privacy-act",
-    "score": 0.92,
-    "performance": 0.91,
+    "score": 0.93,
+    "performance": 0.93,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/about/agency-overview/no-fear-act",
-    "score": 0.95,
-    "performance": 1,
+    "score": 0.93,
+    "performance": 0.92,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/about/agency-overview/open-government",
-    "score": 0.92,
-    "performance": 0.9,
+    "score": 0.93,
+    "performance": 0.92,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
@@ -89,16 +89,16 @@
   },
   {
     "path": "/about/americorps30",
-    "score": 0.92,
-    "performance": 0.85,
+    "score": 0.93,
+    "performance": 0.88,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/about/brand-resources",
-    "score": 0.85,
-    "performance": 0.64,
+    "score": 0.87,
+    "performance": 0.72,
     "accessibility": 0.92,
     "best-practices": 0.92,
     "seo": 0.92
@@ -106,39 +106,39 @@
   {
     "path": "/about/careers",
     "score": 0.91,
-    "performance": 0.86,
+    "performance": 0.83,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/about/faqs",
-    "score": 0.93,
-    "performance": 0.9,
+    "score": 0.94,
+    "performance": 0.92,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/about/our-impact",
-    "score": 0.81,
-    "performance": 0.46,
+    "score": 0.82,
+    "performance": 0.49,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/about/our-impact/evidence-exchange",
-    "score": 0.88,
-    "performance": 0.84,
+    "score": 0.89,
+    "performance": 0.85,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/about/our-impact/volunteering-civic-life",
-    "score": 0.9,
-    "performance": 0.86,
+    "score": 0.89,
+    "performance": 0.84,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 0.83
@@ -154,15 +154,15 @@
   {
     "path": "/about/our-team",
     "score": 0.89,
-    "performance": 0.83,
+    "performance": 0.84,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/about/our-team/board-directors",
-    "score": 0.88,
-    "performance": 0.89,
+    "score": 0.86,
+    "performance": 0.82,
     "accessibility": 0.86,
     "best-practices": 0.92,
     "seo": 0.83
@@ -186,15 +186,15 @@
   {
     "path": "/about/what-we-do",
     "score": 0.86,
-    "performance": 0.86,
+    "performance": 0.88,
     "accessibility": 0.9,
     "best-practices": 0.92,
     "seo": 0.75
   },
   {
     "path": "/about/what-we-do/climate",
-    "score": 0.86,
-    "performance": 0.65,
+    "score": 0.84,
+    "performance": 0.56,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
@@ -202,7 +202,7 @@
   {
     "path": "/about/what-we-do/covid-response",
     "score": 0.93,
-    "performance": 0.9,
+    "performance": 0.91,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.92
@@ -210,15 +210,15 @@
   {
     "path": "/about/what-we-do/disaster-services-unit",
     "score": 0.9,
-    "performance": 0.81,
+    "performance": 0.84,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/about/what-we-do/economic-opportunity",
-    "score": 0.83,
-    "performance": 0.64,
+    "score": 0.81,
+    "performance": 0.56,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.83
@@ -233,56 +233,56 @@
   },
   {
     "path": "/about/what-we-do/healthy-futures",
-    "score": 0.91,
-    "performance": 0.86,
+    "score": 0.9,
+    "performance": 0.82,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/about/what-we-do/veterans",
-    "score": 0.91,
-    "performance": 0.85,
+    "score": 0.92,
+    "performance": 0.87,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/blogs/2023-05-15/feeding-hungry-reaping-harvest",
-    "score": 0.97,
-    "performance": 1,
+    "score": 0.96,
+    "performance": 0.97,
     "accessibility": 0.95,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/blogs/2023-05-18/americorps-addresses-mental-health-crisis",
-    "score": 0.89,
-    "performance": 0.68,
+    "score": 0.92,
+    "performance": 0.78,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/blogs/2023-05-26/military-appreciation-month-service-empowers-veterans-military-families",
-    "score": 0.86,
-    "performance": 0.76,
+    "score": 0.84,
+    "performance": 0.67,
     "accessibility": 0.84,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/blogs/2023-06-08/conservation-education-americorps-members-make-difference-animals-people",
-    "score": 0.96,
-    "performance": 0.99,
+    "score": 0.97,
+    "performance": 1,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/blogs/2023-06-16/father-child-passing-value-service",
-    "score": 0.96,
-    "performance": 0.98,
+    "score": 0.97,
+    "performance": 0.99,
     "accessibility": 0.95,
     "best-practices": 0.92,
     "seo": 1
@@ -298,23 +298,23 @@
   {
     "path": "/blogs/2023-07-06/make-difference-choose-americorps",
     "score": 0.88,
-    "performance": 0.64,
-    "accessibility": 0.94,
+    "performance": 0.66,
+    "accessibility": 0.92,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/blogs/2023-07-14/five-things-do-your-twenties",
-    "score": 0.96,
-    "performance": 0.96,
+    "score": 0.95,
+    "performance": 0.92,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/blogs/2023-07-20/summer-remember-my-familys-inspiration-make-difference-communities",
-    "score": 0.95,
-    "performance": 0.91,
+    "score": 0.97,
+    "performance": 0.99,
     "accessibility": 0.95,
     "best-practices": 0.92,
     "seo": 1
@@ -322,7 +322,7 @@
   {
     "path": "/contact",
     "score": 0.94,
-    "performance": 0.98,
+    "performance": 0.99,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
@@ -337,8 +337,8 @@
   },
   {
     "path": "/contact/americorps-nccc-regions",
-    "score": 0.94,
-    "performance": 0.98,
+    "score": 0.93,
+    "performance": 0.93,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
@@ -353,32 +353,32 @@
   },
   {
     "path": "/contact/state-service-commissions",
-    "score": 0.91,
-    "performance": 0.86,
+    "score": 0.9,
+    "performance": 0.81,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/coronavirus",
-    "score": 0.92,
-    "performance": 0.89,
+    "score": 0.91,
+    "performance": 0.86,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/donate",
-    "score": 0.94,
-    "performance": 0.95,
+    "score": 0.95,
+    "performance": 0.99,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/evidence-exchange/2017-state-evidence-annual-report",
-    "score": 0.97,
-    "performance": 1,
+    "score": 0.96,
+    "performance": 0.97,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
@@ -393,8 +393,8 @@
   },
   {
     "path": "/evidence-exchange/americorps-nccc-sponsor-survey",
-    "score": 0.97,
-    "performance": 0.98,
+    "score": 0.96,
+    "performance": 0.94,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
@@ -402,15 +402,15 @@
   {
     "path": "/evidence-exchange/americorps-ohio-college-guides-impact-evaluation-report",
     "score": 0.95,
-    "performance": 0.91,
+    "performance": 0.92,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/evidence-exchange/blueprint-schools-network-final-report",
-    "score": 0.97,
-    "performance": 0.99,
+    "score": 0.95,
+    "performance": 0.92,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
@@ -425,8 +425,8 @@
   },
   {
     "path": "/evidence-exchange/impact-evaluation-minnesota-alliance-youth-statewide-americorps-promise-fellows",
-    "score": 0.95,
-    "performance": 0.9,
+    "score": 0.94,
+    "performance": 0.89,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
@@ -434,23 +434,23 @@
   {
     "path": "/evidence-exchange/profile-americorps-nccc-members-start-service",
     "score": 0.95,
-    "performance": 0.91,
+    "performance": 0.93,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/funded-grants/2020-americorps-seniors-grants",
-    "score": 0.95,
-    "performance": 0.9,
+    "score": 0.97,
+    "performance": 0.98,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/funded-grants/2020-days-service-grants",
-    "score": 0.95,
-    "performance": 0.9,
+    "score": 0.97,
+    "performance": 0.99,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
@@ -458,15 +458,15 @@
   {
     "path": "/funded-grants/2021-americorps-seniors-grants",
     "score": 0.94,
-    "performance": 0.88,
+    "performance": 0.89,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/funded-grants/2021-americorps-seniors-rsvp-competition",
-    "score": 0.97,
-    "performance": 0.99,
+    "score": 0.98,
+    "performance": 1,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 1
@@ -474,23 +474,23 @@
   {
     "path": "/funded-grants/2022-americorps-seniors-grants",
     "score": 0.94,
-    "performance": 0.86,
+    "performance": 0.89,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/funded-grants/2022-national-service-civic-engagement-research-grants",
-    "score": 0.95,
-    "performance": 0.88,
+    "score": 0.96,
+    "performance": 0.93,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/funded-grants/2023-americorps-seniors-native-nations-indigenous-elders-senior-demonstration-program",
-    "score": 0.95,
-    "performance": 0.9,
+    "score": 0.94,
+    "performance": 0.85,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 1
@@ -505,8 +505,8 @@
   },
   {
     "path": "/funding-opportunity/americorps-nccc-fema-corps",
-    "score": 0.95,
-    "performance": 0.92,
+    "score": 0.92,
+    "performance": 0.8,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
@@ -514,47 +514,47 @@
   {
     "path": "/funding-opportunity/americorps-nccc-traditional",
     "score": 0.95,
-    "performance": 0.91,
+    "performance": 0.93,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/funding-opportunity/americorps-nccc-traditional-disaster-response",
-    "score": 0.95,
-    "performance": 0.91,
+    "score": 0.94,
+    "performance": 0.86,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/grantees-sponsors",
-    "score": 0.85,
-    "performance": 0.7,
+    "score": 0.87,
+    "performance": 0.81,
     "accessibility": 0.93,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/grantees-sponsors/directs-territories-tribes",
-    "score": 0.88,
-    "performance": 0.81,
+    "score": 0.89,
+    "performance": 0.86,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/grantees-sponsors/evaluation-resources/scaler",
-    "score": 0.88,
-    "performance": 0.82,
+    "score": 0.9,
+    "performance": 0.87,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/grantees-sponsors/faqs",
-    "score": 0.92,
-    "performance": 0.86,
+    "score": 0.94,
+    "performance": 0.93,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 0.92
@@ -569,16 +569,16 @@
   },
   {
     "path": "/grantees-sponsors/history-check",
-    "score": 0.9,
-    "performance": 0.82,
+    "score": 0.93,
+    "performance": 0.93,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/grantees-sponsors/manage-your-grant",
-    "score": 0.9,
-    "performance": 0.79,
+    "score": 0.91,
+    "performance": 0.84,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.92
@@ -586,7 +586,7 @@
   {
     "path": "/grantees-sponsors/nccc",
     "score": 0.9,
-    "performance": 0.86,
+    "performance": 0.87,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 0.83
@@ -594,7 +594,7 @@
   {
     "path": "/grantees-sponsors/research-evaluation",
     "score": 0.9,
-    "performance": 0.9,
+    "performance": 0.89,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.83
@@ -602,7 +602,7 @@
   {
     "path": "/grantees-sponsors/research-evaluation/grantee-profiles",
     "score": 0.81,
-    "performance": 0.55,
+    "performance": 0.54,
     "accessibility": 0.86,
     "best-practices": 0.92,
     "seo": 0.92
@@ -610,15 +610,15 @@
   {
     "path": "/grantees-sponsors/rsvp",
     "score": 0.89,
-    "performance": 0.85,
+    "performance": 0.88,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/join",
-    "score": 0.88,
-    "performance": 0.81,
+    "score": 0.86,
+    "performance": 0.74,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.83
@@ -626,15 +626,15 @@
   {
     "path": "/join/find-volunteer-opportunity",
     "score": 0.89,
-    "performance": 0.92,
+    "performance": 0.95,
     "accessibility": 0.87,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/leadership/adrienne-andrews",
-    "score": 0.98,
-    "performance": 1,
+    "score": 0.97,
+    "performance": 0.99,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 1
@@ -642,7 +642,7 @@
   {
     "path": "/leadership/aj-pearlman",
     "score": 0.97,
-    "performance": 0.98,
+    "performance": 0.99,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 1
@@ -657,8 +657,8 @@
   },
   {
     "path": "/leadership/atalaya-sergi",
-    "score": 0.98,
-    "performance": 1,
+    "score": 0.97,
+    "performance": 0.97,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 1
@@ -673,8 +673,8 @@
   },
   {
     "path": "/leadership/caroline-fernandez",
-    "score": 0.98,
-    "performance": 1,
+    "score": 0.97,
+    "performance": 0.98,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 1
@@ -697,40 +697,40 @@
   },
   {
     "path": "/members-volunteers",
-    "score": 0.85,
-    "performance": 0.72,
+    "score": 0.86,
+    "performance": 0.78,
     "accessibility": 0.92,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/members-volunteers/alumni",
-    "score": 0.89,
-    "performance": 0.83,
+    "score": 0.9,
+    "performance": 0.86,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/members-volunteers/alumni/find-a-job",
-    "score": 0.92,
-    "performance": 0.91,
+    "score": 0.93,
+    "performance": 0.93,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/members-volunteers/alumni/segal-fellowship",
-    "score": 0.92,
-    "performance": 0.97,
+    "score": 0.93,
+    "performance": 1,
     "accessibility": 0.95,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/members-volunteers/education-award-faqs",
-    "score": 0.93,
-    "performance": 0.91,
+    "score": 0.94,
+    "performance": 0.92,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 0.92
@@ -746,15 +746,15 @@
   {
     "path": "/members-volunteers/member-volunteer-resources",
     "score": 0.92,
-    "performance": 0.85,
+    "performance": 0.87,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/members-volunteers/safety-security",
-    "score": 0.91,
-    "performance": 0.84,
+    "score": 0.93,
+    "performance": 0.88,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 0.92
@@ -762,7 +762,7 @@
   {
     "path": "/members-volunteers/segal-americorps-education-award",
     "score": 0.92,
-    "performance": 0.85,
+    "performance": 0.87,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 0.92
@@ -777,16 +777,16 @@
   },
   {
     "path": "/members-volunteers/vista",
-    "score": 0.83,
-    "performance": 0.59,
+    "score": 0.85,
+    "performance": 0.67,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/members-volunteers/vista/benefits",
-    "score": 0.92,
-    "performance": 0.9,
+    "score": 0.93,
+    "performance": 0.92,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
@@ -794,47 +794,47 @@
   {
     "path": "/members-volunteers/your-benefits",
     "score": 0.92,
-    "performance": 0.86,
+    "performance": 0.85,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/newsroom",
-    "score": 0.9,
-    "performance": 0.95,
+    "score": 0.91,
+    "performance": 1,
     "accessibility": 0.88,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/newsroom/blog",
-    "score": 0.89,
-    "performance": 0.85,
-    "accessibility": 0.94,
+    "score": 0.9,
+    "performance": 0.87,
+    "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/newsroom/communication-resources",
     "score": 0.84,
-    "performance": 0.59,
+    "performance": 0.58,
     "accessibility": 0.92,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/newsroom/events",
-    "score": 0.92,
-    "performance": 0.86,
+    "score": 0.93,
+    "performance": 0.88,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/newsroom/events/911-day",
-    "score": 0.77,
-    "performance": 0.51,
+    "score": 0.76,
+    "performance": 0.5,
     "accessibility": 0.88,
     "best-practices": 0.92,
     "seo": 0.75
@@ -842,32 +842,32 @@
   {
     "path": "/newsroom/events/mlk-day",
     "score": 0.81,
-    "performance": 0.61,
+    "performance": 0.6,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.75
   },
   {
     "path": "/newsroom/events/veterans-day",
-    "score": 0.88,
-    "performance": 0.72,
+    "score": 0.89,
+    "performance": 0.77,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/newsroom/in-the-news",
-    "score": 0.79,
-    "performance": 0.36,
+    "score": 0.82,
+    "performance": 0.45,
     "accessibility": 0.97,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/newsroom/news",
-    "score": 0.9,
-    "performance": 0.82,
-    "accessibility": 0.94,
+    "score": 0.91,
+    "performance": 0.83,
+    "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.92
   },
@@ -882,15 +882,23 @@
   {
     "path": "/newsroom/official-statements/2010/message-staff-and-field-open-government-plan-release",
     "score": 0.94,
-    "performance": 0.89,
+    "performance": 0.88,
+    "accessibility": 0.95,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/newsroom/press-release/185000-americans-be-recruited-across-nation-911-mlk-days-service-volunteer",
+    "score": 0.93,
+    "performance": 0.84,
     "accessibility": 0.95,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/newsroom/press-release/americorps-announces-millions-funding-student-conservation-association-ceo",
-    "score": 0.91,
-    "performance": 0.86,
+    "score": 0.93,
+    "performance": 0.92,
     "accessibility": 0.95,
     "best-practices": 0.92,
     "seo": 0.92
@@ -898,47 +906,39 @@
   {
     "path": "/newsroom/press-release/americorps-expands-opportunities-students-increases-flexibility-education",
     "score": 0.95,
-    "performance": 0.91,
+    "performance": 0.93,
     "accessibility": 0.95,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/newsroom/press-release/americorps-increases-minimum-living-healthcare-allowances-members-serving",
-    "score": 0.95,
-    "performance": 0.91,
-    "accessibility": 0.95,
-    "best-practices": 0.92,
-    "seo": 1
-  },
-  {
-    "path": "/newsroom/press-release/americorps-invests-155-million-michigan-improve-education-health-equity",
-    "score": 0.92,
-    "performance": 0.82,
+    "score": 0.93,
+    "performance": 0.83,
     "accessibility": 0.95,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/newsroom/press-release/americorps-invests-more-7-million-advance-equity-opportunity",
-    "score": 0.95,
-    "performance": 0.91,
+    "score": 0.94,
+    "performance": 0.9,
     "accessibility": 0.95,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/newsroom/press-release/americorps-members-student-conservation-association-honored-presidents",
-    "score": 0.94,
-    "performance": 0.9,
+    "score": 0.95,
+    "performance": 0.93,
     "accessibility": 0.95,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/newsroom/press-release/long-time-nevada-volunteer-honored-presidents-volunteer-service-award",
-    "score": 0.94,
-    "performance": 0.9,
+    "score": 0.95,
+    "performance": 0.91,
     "accessibility": 0.95,
     "best-practices": 0.92,
     "seo": 1
@@ -946,47 +946,47 @@
   {
     "path": "/newsroom/press-release/low-income-americans-receive-record-84-million-tax-relief-nationwide",
     "score": 0.95,
-    "performance": 0.91,
+    "performance": 0.93,
     "accessibility": 0.95,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/newsroom/press-releases/2010/national-service-agency-releases-open-government-plan",
-    "score": 0.93,
-    "performance": 0.86,
+    "score": 0.95,
+    "performance": 0.92,
     "accessibility": 0.95,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/newsroom/speech/remarks-prepared-delivery-ceo-michael-d-smith-june-2023-americorps-native-nations",
-    "score": 0.93,
-    "performance": 0.85,
+    "score": 0.95,
+    "performance": 0.93,
     "accessibility": 0.95,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/newsroom/stories",
-    "score": 0.89,
-    "performance": 0.86,
+    "score": 0.88,
+    "performance": 0.81,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/newsroom/stories/share-your-service-story",
-    "score": 0.91,
-    "performance": 0.86,
+    "score": 0.9,
+    "performance": 0.81,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/node/172666",
-    "score": 0.89,
-    "performance": 0.85,
+    "score": 0.9,
+    "performance": 0.87,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.83
@@ -994,7 +994,7 @@
   {
     "path": "/node/249851/",
     "score": 0.9,
-    "performance": 0.9,
+    "performance": 0.92,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.83
@@ -1002,7 +1002,7 @@
   {
     "path": "/node/250046",
     "score": 0.9,
-    "performance": 0.8,
+    "performance": 0.82,
     "accessibility": 0.95,
     "best-practices": 0.92,
     "seo": 0.92
@@ -1018,7 +1018,7 @@
   {
     "path": "/partner",
     "score": 0.94,
-    "performance": 0.98,
+    "performance": 0.99,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
@@ -1026,15 +1026,15 @@
   {
     "path": "/partner/communities-initiatives",
     "score": 0.89,
-    "performance": 0.84,
+    "performance": 0.81,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/partner/communities-initiatives/native-nations",
-    "score": 0.91,
-    "performance": 0.86,
+    "score": 0.92,
+    "performance": 0.88,
     "accessibility": 0.95,
     "best-practices": 0.92,
     "seo": 0.92
@@ -1042,7 +1042,7 @@
   {
     "path": "/partner/communities-initiatives/united-we-serve",
     "score": 0.81,
-    "performance": 0.56,
+    "performance": 0.54,
     "accessibility": 0.93,
     "best-practices": 0.92,
     "seo": 0.83
@@ -1050,31 +1050,31 @@
   {
     "path": "/partner/faqs",
     "score": 0.91,
-    "performance": 0.9,
+    "performance": 0.91,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/partner/funding-opportunities",
-    "score": 0.89,
-    "performance": 0.84,
+    "score": 0.9,
+    "performance": 0.88,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/partner/funding-opportunities/closed-funding-opportunities",
-    "score": 0.9,
-    "performance": 0.9,
+    "score": 0.91,
+    "performance": 0.92,
     "accessibility": 0.95,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/partner/funding-opportunities/funded-grants",
-    "score": 0.9,
-    "performance": 0.88,
+    "score": 0.89,
+    "performance": 0.86,
     "accessibility": 0.95,
     "best-practices": 0.92,
     "seo": 0.83
@@ -1090,23 +1090,23 @@
   {
     "path": "/partner/how-it-works",
     "score": 0.91,
-    "performance": 0.84,
+    "performance": 0.86,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/partner/how-it-works/americorps-nccc",
-    "score": 0.94,
-    "performance": 0.99,
+    "score": 0.95,
+    "performance": 1,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/partner/how-it-works/americorps-seniors-foster-grandparent-program",
-    "score": 0.92,
-    "performance": 0.91,
+    "score": 0.93,
+    "performance": 0.92,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
@@ -1114,15 +1114,15 @@
   {
     "path": "/partner/how-it-works/americorps-seniors-rsvp",
     "score": 0.94,
-    "performance": 0.99,
+    "performance": 0.96,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/partner/how-it-works/americorps-seniors-senior-companion-program",
-    "score": 0.92,
-    "performance": 0.9,
+    "score": 0.93,
+    "performance": 0.92,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
@@ -1138,13 +1138,21 @@
   {
     "path": "/partner/how-it-works/americorps-vista",
     "score": 0.94,
-    "performance": 0.98,
+    "performance": 0.99,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/partner/how-it-works/research-evaluation",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 0.94,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/partner/how-it-works/volunteer-generation-fund",
     "score": 0.94,
     "performance": 0.98,
     "accessibility": 0.94,
@@ -1152,17 +1160,9 @@
     "seo": 0.92
   },
   {
-    "path": "/partner/how-it-works/volunteer-generation-fund",
-    "score": 0.92,
-    "performance": 0.9,
-    "accessibility": 0.94,
-    "best-practices": 0.92,
-    "seo": 0.92
-  },
-  {
     "path": "/partner/partnerships",
     "score": 0.9,
-    "performance": 0.85,
+    "performance": 0.87,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 0.83
@@ -1177,8 +1177,8 @@
   },
   {
     "path": "/partner/partnerships/employers-national-service",
-    "score": 0.95,
-    "performance": 0.99,
+    "score": 0.92,
+    "performance": 0.88,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.92
@@ -1210,15 +1210,15 @@
   {
     "path": "/partner/partnerships/schools-national-service-search",
     "score": 0.89,
-    "performance": 0.83,
+    "performance": 0.84,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/serve",
-    "score": 0.82,
-    "performance": 0.65,
+    "score": 0.83,
+    "performance": 0.69,
     "accessibility": 0.88,
     "best-practices": 0.92,
     "seo": 0.83
@@ -1226,8 +1226,8 @@
   {
     "path": "/serve/americorps",
     "score": 0.91,
-    "performance": 0.85,
-    "accessibility": 0.96,
+    "performance": 0.87,
+    "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
   },
@@ -1242,23 +1242,23 @@
   {
     "path": "/serve/americorps-seniors/americorps-seniors-foster-grandparent-program",
     "score": 0.87,
-    "performance": 0.85,
+    "performance": 0.88,
     "accessibility": 0.86,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/serve/americorps-seniors/americorps-seniors-pathfinder",
-    "score": 0.94,
-    "performance": 0.99,
+    "score": 0.95,
+    "performance": 1,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/serve/americorps-seniors/americorps-seniors-rsvp",
-    "score": 0.86,
-    "performance": 0.82,
+    "score": 0.85,
+    "performance": 0.77,
     "accessibility": 0.86,
     "best-practices": 0.92,
     "seo": 0.83
@@ -1266,39 +1266,39 @@
   {
     "path": "/serve/americorps-seniors/americorps-seniors-senior-companion-program",
     "score": 0.87,
-    "performance": 0.85,
+    "performance": 0.87,
     "accessibility": 0.86,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/serve/americorps/americorps-nccc",
-    "score": 0.77,
-    "performance": 0.5,
+    "score": 0.78,
+    "performance": 0.53,
     "accessibility": 0.84,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/serve/americorps/americorps-nccc/americorps-nccc-questions",
-    "score": 0.91,
-    "performance": 0.86,
+    "score": 0.9,
+    "performance": 0.81,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/serve/americorps/americorps-nccc/connect-with-us",
-    "score": 0.9,
-    "performance": 0.82,
+    "score": 0.88,
+    "performance": 0.7,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/serve/americorps/americorps-nccc/deployment-reports",
-    "score": 0.8,
-    "performance": 0.43,
+    "score": 0.81,
+    "performance": 0.44,
     "accessibility": 0.94,
     "best-practices": 0.92,
     "seo": 0.92
@@ -1306,15 +1306,15 @@
   {
     "path": "/serve/americorps/americorps-nccc/join",
     "score": 0.84,
-    "performance": 0.67,
+    "performance": 0.68,
     "accessibility": 0.93,
     "best-practices": 0.83,
     "seo": 0.92
   },
   {
     "path": "/serve/americorps/americorps-nccc/join/guide",
-    "score": 0.9,
-    "performance": 0.89,
+    "score": 0.91,
+    "performance": 0.91,
     "accessibility": 0.88,
     "best-practices": 0.92,
     "seo": 0.92
@@ -1337,48 +1337,48 @@
   },
   {
     "path": "/serve/americorps/americorps-state-national",
-    "score": 0.77,
-    "performance": 0.58,
+    "score": 0.81,
+    "performance": 0.71,
     "accessibility": 0.84,
     "best-practices": 0.92,
     "seo": 0.75
   },
   {
     "path": "/serve/americorps/americorps-vista",
-    "score": 0.86,
-    "performance": 0.81,
+    "score": 0.87,
+    "performance": 0.85,
     "accessibility": 0.86,
     "best-practices": 0.92,
     "seo": 0.83
   },
   {
     "path": "/serve/americorps/americorps-vista/connect-with-vista",
-    "score": 0.86,
-    "performance": 0.63,
+    "score": 0.91,
+    "performance": 0.83,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/serve/faqs",
-    "score": 0.93,
-    "performance": 0.9,
+    "score": 0.94,
+    "performance": 0.92,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/serve/fit-finder",
-    "score": 0.9,
-    "performance": 0.76,
+    "score": 0.89,
+    "performance": 0.74,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/serve/fit-finder/americorps-nccc/join",
-    "score": 0.85,
-    "performance": 0.72,
+    "score": 0.82,
+    "performance": 0.6,
     "accessibility": 0.93,
     "best-practices": 0.83,
     "seo": 0.92
@@ -1393,8 +1393,8 @@
   },
   {
     "path": "/serve/volunteer",
-    "score": 0.89,
-    "performance": 0.84,
+    "score": 0.9,
+    "performance": 0.87,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 0.83
@@ -1402,7 +1402,7 @@
   {
     "path": "/serve/volunteer/911-day",
     "score": 0.79,
-    "performance": 0.61,
+    "performance": 0.59,
     "accessibility": 0.88,
     "best-practices": 0.92,
     "seo": 0.75
@@ -1417,16 +1417,16 @@
   },
   {
     "path": "/serve/volunteer/911-day/911-day-resources",
-    "score": 0.93,
-    "performance": 0.94,
+    "score": 0.95,
+    "performance": 1,
     "accessibility": 0.95,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/serve/volunteer/mlk-day",
-    "score": 0.8,
-    "performance": 0.55,
+    "score": 0.84,
+    "performance": 0.72,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.75
@@ -1442,7 +1442,7 @@
   {
     "path": "/serve/volunteer/mlk-day/mlk-day-resources",
     "score": 0.9,
-    "performance": 0.99,
+    "performance": 1,
     "accessibility": 0.86,
     "best-practices": 0.92,
     "seo": 0.83
@@ -1450,7 +1450,7 @@
   {
     "path": "/serve/what-to-expect",
     "score": 0.86,
-    "performance": 0.79,
+    "performance": 0.82,
     "accessibility": 0.88,
     "best-practices": 0.92,
     "seo": 0.83
@@ -1465,16 +1465,16 @@
   },
   {
     "path": "/stories/barry-russack",
-    "score": 0.98,
-    "performance": 1,
+    "score": 0.97,
+    "performance": 0.98,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/stories/becky-cain",
-    "score": 0.97,
-    "performance": 0.96,
+    "score": 0.98,
+    "performance": 1,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 1
@@ -1489,8 +1489,8 @@
   },
   {
     "path": "/stories/henrietta-gaines",
-    "score": 0.97,
-    "performance": 0.99,
+    "score": 0.98,
+    "performance": 1,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 1
@@ -1498,7 +1498,7 @@
   {
     "path": "/stories/johnson-ho",
     "score": 0.97,
-    "performance": 0.97,
+    "performance": 0.99,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 1
@@ -1521,24 +1521,24 @@
   },
   {
     "path": "/stories/mira-bakhtiyarova",
-    "score": 0.97,
-    "performance": 0.99,
+    "score": 0.98,
+    "performance": 1,
     "accessibility": 0.98,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/view/americorps-seniors-pathfinder",
-    "score": 0.95,
-    "performance": 1,
+    "score": 0.91,
+    "performance": 0.86,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 0.92
   },
   {
     "path": "/webinar/bridging-research-practice-gap-equitable-lens",
-    "score": 0.95,
-    "performance": 0.9,
+    "score": 0.94,
+    "performance": 0.88,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
@@ -1546,15 +1546,15 @@
   {
     "path": "/webinar/civic-engagement-catalyst-community-change-2021-research-grantee-dialogue",
     "score": 0.95,
-    "performance": 0.91,
+    "performance": 0.92,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/webinar/civic-engagement-climate-change-mitigation-exploring-opportunities-intersection-research",
-    "score": 0.95,
-    "performance": 0.91,
+    "score": 0.94,
+    "performance": 0.89,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
@@ -1562,7 +1562,7 @@
   {
     "path": "/webinar/community-based-research-vehicle-civic-engagement-community-impact",
     "score": 0.95,
-    "performance": 0.91,
+    "performance": 0.93,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
@@ -1570,15 +1570,15 @@
   {
     "path": "/webinar/creating-successful-volunteering-national-service-opportunities-best-practices-benefits",
     "score": 0.95,
-    "performance": 0.9,
+    "performance": 0.93,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
   },
   {
     "path": "/webinar/double-trouble-reigniting-civic-engagement-through-pandemics-disasters",
-    "score": 0.92,
-    "performance": 0.81,
+    "score": 0.94,
+    "performance": 0.89,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
@@ -1586,7 +1586,7 @@
   {
     "path": "/webinar/leveraging-transformative-resources-meet-community-needs-ignite-lifetime-civic-engagement",
     "score": 0.95,
-    "performance": 0.9,
+    "performance": 0.93,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
@@ -1594,7 +1594,7 @@
   {
     "path": "/webinar/what-civic-engagement-exploring-new-paradigms",
     "score": 0.94,
-    "performance": 0.87,
+    "performance": 0.86,
     "accessibility": 0.96,
     "best-practices": 0.92,
     "seo": 1
